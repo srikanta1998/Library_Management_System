@@ -1,0 +1,10 @@
+2023-06-22 13:09:53,164 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-22 13:11:03,982 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.axis.demo:LibraryManagementMidTermProject:0.0.1-SNAPSHOT @ C:\Users\srikanta\OneDrive\Desktop\Manipal Course\Library_Management_System\LibraryManagement(backend)\pom.xml.
+2023-06-22 13:11:06,432 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LibraryManagement(backend)/src/main/java
+2023-06-22 13:11:06,433 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LibraryManagement(backend)/src/main/resources
+2023-06-22 13:11:06,435 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LibraryManagement(backend)/src/main/resources
+2023-06-22 13:11:06,436 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LibraryManagement(backend)/src/test/java
+2023-06-22 13:11:07,764 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2023-06-22 13:11:12,946 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-22 13:11:12,988 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-22 13:11:13,002 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\srikanta\OneDrive\Desktop\Manipal Course\Library_Management_System\LibraryManagement(backend)\src\test\resources
